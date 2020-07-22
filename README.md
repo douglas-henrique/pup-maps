@@ -4,7 +4,7 @@ Simple project using puppeteer and readlineSync to search coordinates from a add
  
 ### Tech
 
-Dillinger uses a number of open source projects to work properly:
+Pup-maps uses a number of open source projects to work properly:
 
 * [Node JS] - A JavaScript runtime built on Chrome's V8 JavaScript engine.
 * [puppeteer] - Library which provides a high-level API to control Chrome
