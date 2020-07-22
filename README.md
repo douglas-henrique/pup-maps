@@ -14,7 +14,7 @@ This project is *only* for study. Don't use this on real server production. Use 
 
 ### Installation
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies and run the index script.
 
 ```sh
 $ cd pup-maps
